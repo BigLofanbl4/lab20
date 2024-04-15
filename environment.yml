@@ -8,3 +8,5 @@ dependencies:
   - isort
   - flake8
   - pre-commit
+  - click
+  - jsonschema

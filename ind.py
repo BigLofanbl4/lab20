@@ -25,7 +25,7 @@ def validation(instance):
                     "minitems": 3,
                 },
             },
-            "required": ["surname", "name", "zodiac", "birthday"],
+            "required": ["surname", "name", "birthday"],
         },
     }
     try:
